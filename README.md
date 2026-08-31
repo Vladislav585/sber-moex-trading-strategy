@@ -1,5 +1,7 @@
 # 📈 EasyProject — Торговая стратегия для акций Сбербанка (SBER)
 
+> **Languages:** [🇷🇺 Русский](#russian-version) | [🇺🇸 English](#english-version)
+
 Алгоритмическая торговая стратегия для акций **Сбербанка (SBER)** на часовом таймфрейме (**1h**).  
 Данные загружаются с **MOEX бесплатно, без API-ключа**.  
 Проект поддерживает **бэктест**, **realtime-сигналы** и **оптимизацию параметров**.
@@ -247,8 +249,14 @@ take_profit_pct = 4.0   # продать, если цена выросла на 
 - GitHub: [@Vladislav585](https://github.com/Vladislav585)
 - Telegram: [@Vladosik585](https://t.me/Vladosik585)
 
----
----
+
+<br/><br/>
+<div align="center">
+  <hr size="3" width="100%" color="gray">
+  <h2 id="english-version">🇺🇸 English Version</h2>
+  <hr size="3" width="100%" color="gray">
+</div>
+<br/>
 
 # 📈 EasyProject — Trading Strategy for Sberbank Stocks (SBER)
 
